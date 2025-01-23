@@ -8,7 +8,7 @@ function App() {
             <header className="GlobalHeader_globalHeader__KVED3  ">
                 <div className="GlobalHeader_container__Ab70T">
                     <div className="GlobalHeader_primaryNavigation__fsQzk"><a className="GlobalHeader_logo__0Wu9o"
-                        href="index.html">Amie AI</a>
+                        href="index.html">IoT AI</a>
                         <nav className="GlobalHeader_primaryNav__FHTbN">
                             <ol className="GlobalHeader_primaryNavList__UFJ1n">
                                 <li className=""><a href="https://iot-ai.gitbook.io/iot-ai-docs">Docs<span
@@ -67,7 +67,7 @@ function App() {
                 <div className="Masthead_mastheadWrap__eBzY7">
                     <div className="Masthead_container__9CE60">
                         <div className="Masthead_mastheadContent__p8B9U">
-                            <p>Amie AI
+                            <p>IoT AI
                             </p>
                             <h1> 
                             The AI Agent for IoT</h1>
@@ -95,7 +95,7 @@ function App() {
                             referrerPolicy="strict-origin-when-cross-origin"></iframe></div>
                         <div className="Airdrop_airdropContent__0lch1">
                             <h2>$IOT is live 24/7</h2>
-                            <h3>Watch her on X. @ her and she will reply in real time!</h3>
+                            <h3>Watch US ON X. @IoTai_ABB WE'll REPLY IN REAL TIME</h3>
                             <p className="Airdrop_footnote__PTKyH">*She a bit cray.</p>
                         </div>
                     </div>
