@@ -20,7 +20,7 @@ function App() {
                             <ol className="GlobalHeader_mobileExtras__NamJB">
                                 <li>
                                     <ul className="GlobalHeader_headerSocials__Vzjuj">
-                                        <li><a href="#" title="Follow us on X" target="_blank"
+                                        <li><a href="https://x.com/IoTai_ABB" title="Follow us on X" target="_blank"
                                             rel="noreferrer"><svg viewBox="0 0 32 32">
                                                 <path
                                                     d="M18.8,13.7l11-12.8h-2.6L17.7,12L10,0.9H1.2l11.5,16.8L1.2,31.1h2.6l10.1-11.7L22,31.1h8.8L18.8,13.7L18.8,13.7  z M15.2,17.8l-1.2-1.7L4.8,2.8h4l7.5,10.7l1.2,1.7l9.8,14h-4L15.2,17.8L15.2,17.8z">
@@ -39,7 +39,7 @@ function App() {
                     </div>
                     <div className="GlobalHeader_secondaryNavigation__Hgf7u">
                         <ul className="GlobalHeader_headerSocials__Vzjuj">
-                            <li><a href="#" title="Follow us on X" target="_blank"
+                            <li><a href="https://x.com/IoTai_ABB" title="Follow us on X" target="_blank"
                                 rel="noreferrer"><svg viewBox="0 0 32 32">
                                     <path
                                         d="M18.8,13.7l11-12.8h-2.6L17.7,12L10,0.9H1.2l11.5,16.8L1.2,31.1h2.6l10.1-11.7L22,31.1h8.8L18.8,13.7L18.8,13.7  z M15.2,17.8l-1.2-1.7L4.8,2.8h4l7.5,10.7l1.2,1.7l9.8,14h-4L15.2,17.8L15.2,17.8z">
@@ -112,7 +112,7 @@ function App() {
                 <div className="GlobalFooter_container__1D8eU">
                     <div className="GlobalFooter_branding__4ixtd">
                         <ul className="GlobalFooter_footerSocials__KibIh">
-                            <li><a href="#" title="Follow us on X" target="_blank"
+                            <li><a href="https://x.com/IoTai_ABB" title="Follow us on X" target="_blank"
                                 rel="noreferrer"><svg viewBox="0 0 32 32">
                                     <path
                                         d="M18.8,13.7l11-12.8h-2.6L17.7,12L10,0.9H1.2l11.5,16.8L1.2,31.1h2.6l10.1-11.7L22,31.1h8.8L18.8,13.7L18.8,13.7  z M15.2,17.8l-1.2-1.7L4.8,2.8h4l7.5,10.7l1.2,1.7l9.8,14h-4L15.2,17.8L15.2,17.8z">
